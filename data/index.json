@@ -1,0 +1,241 @@
+{
+  "leagues": [
+    {
+      "id": "LMSL",
+      "name": "LittleMac StarCraft II League",
+      "seasons": [
+        {
+          "season": 1,
+          "name": "LittleMac StarCraft II League: Season 1",
+          "matchCount": 68,
+          "dateRange": [
+            "2020-11-08",
+            "2020-11-08"
+          ]
+        },
+        {
+          "season": 2,
+          "name": "LittleMac StarCraft II League: Season 2",
+          "matchCount": 68,
+          "dateRange": [
+            "2021-02-27",
+            "2021-02-27"
+          ]
+        },
+        {
+          "season": 3,
+          "name": "LittleMac StarCraft II League: Season 3",
+          "matchCount": 68,
+          "dateRange": [
+            "2021-09-01",
+            "2021-09-01"
+          ]
+        },
+        {
+          "season": 4,
+          "name": "LittleMac StarCraft II League: Season 4",
+          "matchCount": 68,
+          "dateRange": [
+            "2021-12-01",
+            "2021-12-01"
+          ]
+        },
+        {
+          "season": 5,
+          "name": "LittleMac StarCraft II League: Season 5",
+          "matchCount": 68,
+          "dateRange": [
+            "2022-05-25",
+            "2022-05-25"
+          ]
+        },
+        {
+          "season": 6,
+          "name": "LittleMac StarCraft II League: Season 6",
+          "matchCount": 68,
+          "dateRange": [
+            "2022-09-05",
+            "2022-09-05"
+          ]
+        },
+        {
+          "season": 7,
+          "name": "LittleMac StarCraft II League: Season 7",
+          "matchCount": 68,
+          "dateRange": [
+            "2023-01-10",
+            "2023-01-10"
+          ]
+        },
+        {
+          "season": 8,
+          "name": "LittleMac StarCraft II League: Season 8",
+          "matchCount": 68,
+          "dateRange": [
+            "2023-03-29",
+            "2023-06-14"
+          ]
+        },
+        {
+          "season": 9,
+          "name": "LittleMac StarCraft II League: Season 9",
+          "matchCount": 68,
+          "dateRange": [
+            "2023-09-09",
+            "2023-09-09"
+          ]
+        },
+        {
+          "season": 10,
+          "name": "LittleMac StarCraft II League: Season 10",
+          "matchCount": 68,
+          "dateRange": [
+            "2024-01-07",
+            "2024-01-07"
+          ]
+        },
+        {
+          "season": 11,
+          "name": "LittleMac StarCraft II League: Season 11",
+          "matchCount": 68,
+          "dateRange": [
+            "2024-08-25",
+            "2024-11-23"
+          ]
+        },
+        {
+          "season": 12,
+          "name": "LittleMac StarCraft II League: Season 12",
+          "matchCount": 68,
+          "dateRange": [
+            "2024-12-14",
+            "2024-12-14"
+          ]
+        },
+        {
+          "season": 13,
+          "name": "LittleMac StarCraft II League: Season 13",
+          "matchCount": 68,
+          "dateRange": [
+            "2025-07-16",
+            "2025-10-05"
+          ]
+        },
+        {
+          "season": 14,
+          "name": "LittleMac StarCraft II League: Season 14",
+          "matchCount": 68,
+          "dateRange": [
+            "2026-01-17",
+            "2026-04-04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LMML",
+      "name": "LittleMac Master League",
+      "seasons": [
+        {
+          "season": 1,
+          "name": "LittleMac Master League: Season 1",
+          "matchCount": 68,
+          "dateRange": [
+            "2022-03-03",
+            "2022-03-03"
+          ]
+        },
+        {
+          "season": 2,
+          "name": "LittleMac Master League: Season 2",
+          "matchCount": 68,
+          "dateRange": [
+            "2022-05-22",
+            "2022-05-22"
+          ]
+        },
+        {
+          "season": 3,
+          "name": "LittleMac Master League: Season 3",
+          "matchCount": 68,
+          "dateRange": [
+            "2022-05-22",
+            "2022-12-06"
+          ]
+        },
+        {
+          "season": 4,
+          "name": "LittleMac Master League: Season 4",
+          "matchCount": 68,
+          "dateRange": [
+            "2023-01-10",
+            "2023-04-05"
+          ]
+        },
+        {
+          "season": 5,
+          "name": "LittleMac Master League: Season 5",
+          "matchCount": 68,
+          "dateRange": [
+            "2023-04-06",
+            "2023-06-11"
+          ]
+        },
+        {
+          "season": 6,
+          "name": "LittleMac Master League: Season 6",
+          "matchCount": 68,
+          "dateRange": [
+            "2023-09-09",
+            "2023-09-09"
+          ]
+        },
+        {
+          "season": 7,
+          "name": "LittleMac Master League: Season 7",
+          "matchCount": 68,
+          "dateRange": [
+            "2024-01-07",
+            "2024-01-07"
+          ]
+        },
+        {
+          "season": 8,
+          "name": "LittleMac Master League: Season 8",
+          "matchCount": 68,
+          "dateRange": [
+            "2024-08-25",
+            "2024-11-16"
+          ]
+        },
+        {
+          "season": 9,
+          "name": "LittleMac Master League: Season 9",
+          "matchCount": 66,
+          "dateRange": [
+            "2024-12-14",
+            "2024-12-14"
+          ]
+        },
+        {
+          "season": 10,
+          "name": "LittleMac Master League: Season 10",
+          "matchCount": 68,
+          "dateRange": [
+            "2025-07-16",
+            "2025-10-13"
+          ]
+        },
+        {
+          "season": 11,
+          "name": "LittleMac Master League: Season 11",
+          "matchCount": 68,
+          "dateRange": [
+            "2026-01-17",
+            "2026-04-12"
+          ]
+        }
+      ]
+    }
+  ]
+}
