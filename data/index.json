@@ -129,6 +129,15 @@
             "2026-01-17",
             "2026-04-04"
           ]
+        },
+        {
+          "season": 15,
+          "name": "LittleMac StarCraft II League: Season 15",
+          "matchCount": 19,
+          "dateRange": [
+            "2026-05-26",
+            "2026-05-26"
+          ]
         }
       ]
     },
@@ -233,6 +242,15 @@
           "dateRange": [
             "2026-01-17",
             "2026-04-12"
+          ]
+        },
+        {
+          "season": 12,
+          "name": "LittleMac Master League: Season 12",
+          "matchCount": 16,
+          "dateRange": [
+            "2026-05-26",
+            "2026-05-26"
           ]
         }
       ]
