@@ -254,6 +254,1083 @@
           ]
         }
       ]
+    },
+    {
+      "id": "MMC",
+      "name": "Magikarp Masters Cup",
+      "seasons": [
+        {
+          "season": 1,
+          "name": "The Magikarp Masters Cup Biweekly 1",
+          "matchCount": 34,
+          "dateRange": [
+            "2020-05-15",
+            "2020-05-15"
+          ]
+        },
+        {
+          "season": 2,
+          "name": "The Magikarp Masters Cup Biweekly 2",
+          "matchCount": 25,
+          "dateRange": [
+            "2020-05-29",
+            "2020-05-29"
+          ]
+        },
+        {
+          "season": 3,
+          "name": "The Magikarp Masters Cup Biweekly 3",
+          "matchCount": 30,
+          "dateRange": [
+            "2020-06-12",
+            "2020-06-12"
+          ]
+        },
+        {
+          "season": 4,
+          "name": "The Magikarp Masters Cup Biweekly 4",
+          "matchCount": 26,
+          "dateRange": [
+            "2020-06-26",
+            "2020-06-26"
+          ]
+        },
+        {
+          "season": 5,
+          "name": "The Magikarp Masters Cup Biweekly 5",
+          "matchCount": 22,
+          "dateRange": [
+            "2020-07-10",
+            "2020-07-10"
+          ]
+        },
+        {
+          "season": 6,
+          "name": "The Magikarp Masters Cup Biweekly 6",
+          "matchCount": 27,
+          "dateRange": [
+            "2020-07-24",
+            "2020-07-24"
+          ]
+        },
+        {
+          "season": 7,
+          "name": "The Magikarp Masters Cup Biweekly 7",
+          "matchCount": 15,
+          "dateRange": [
+            "2020-08-07",
+            "2020-08-07"
+          ]
+        },
+        {
+          "season": 8,
+          "name": "The Magikarp Masters Cup Biweekly 8",
+          "matchCount": 23,
+          "dateRange": [
+            "2020-08-21",
+            "2020-08-21"
+          ]
+        },
+        {
+          "season": 9,
+          "name": "The Magikarp Masters Cup Biweekly 9",
+          "matchCount": 25,
+          "dateRange": [
+            "2020-09-04",
+            "2020-09-04"
+          ]
+        },
+        {
+          "season": 10,
+          "name": "The Magikarp Masters Cup Biweekly 10",
+          "matchCount": 14,
+          "dateRange": [
+            "2020-09-18",
+            "2020-09-18"
+          ]
+        },
+        {
+          "season": 11,
+          "name": "The Magikarp Masters Cup Biweekly 11",
+          "matchCount": 17,
+          "dateRange": [
+            "2020-10-02",
+            "2020-10-02"
+          ]
+        },
+        {
+          "season": 12,
+          "name": "The Magikarp Masters Cup Biweekly 12",
+          "matchCount": 18,
+          "dateRange": [
+            "2020-10-16",
+            "2020-10-16"
+          ]
+        },
+        {
+          "season": 13,
+          "name": "The Magikarp Masters Cup Biweekly 13",
+          "matchCount": 15,
+          "dateRange": [
+            "2020-10-30",
+            "2020-10-30"
+          ]
+        },
+        {
+          "season": 14,
+          "name": "The Magikarp Masters Cup Biweekly 14",
+          "matchCount": 15,
+          "dateRange": [
+            "2020-11-13",
+            "2020-11-13"
+          ]
+        },
+        {
+          "season": 15,
+          "name": "The Magikarp Masters Cup Biweekly 15",
+          "matchCount": 16,
+          "dateRange": [
+            "2020-11-27",
+            "2020-11-27"
+          ]
+        },
+        {
+          "season": 16,
+          "name": "The Magikarp Masters Cup Biweekly 16",
+          "matchCount": 19,
+          "dateRange": [
+            "2020-12-11",
+            "2020-12-11"
+          ]
+        },
+        {
+          "season": 17,
+          "name": "The Magikarp Masters Cup Biweekly 17",
+          "matchCount": 19,
+          "dateRange": [
+            "2021-01-08",
+            "2021-01-08"
+          ]
+        },
+        {
+          "season": 18,
+          "name": "The Magikarp Masters Cup Biweekly 18",
+          "matchCount": 10,
+          "dateRange": [
+            "2021-01-22",
+            "2021-01-22"
+          ]
+        },
+        {
+          "season": 19,
+          "name": "The Magikarp Masters Cup Biweekly 19",
+          "matchCount": 19,
+          "dateRange": [
+            "2021-02-05",
+            "2021-02-05"
+          ]
+        },
+        {
+          "season": 20,
+          "name": "The Magikarp Masters Cup Biweekly 20",
+          "matchCount": 18,
+          "dateRange": [
+            "2021-02-19",
+            "2021-02-19"
+          ]
+        },
+        {
+          "season": 21,
+          "name": "The Magikarp Masters Cup Biweekly 21",
+          "matchCount": 20,
+          "dateRange": [
+            "2021-03-05",
+            "2021-03-05"
+          ]
+        },
+        {
+          "season": 22,
+          "name": "The Magikarp Masters Cup Biweekly 22",
+          "matchCount": 27,
+          "dateRange": [
+            "2021-03-19",
+            "2021-03-19"
+          ]
+        },
+        {
+          "season": 23,
+          "name": "The Magikarp Masters Cup Biweekly 23",
+          "matchCount": 24,
+          "dateRange": [
+            "2021-04-02",
+            "2021-04-02"
+          ]
+        },
+        {
+          "season": 24,
+          "name": "The Magikarp Masters Cup Biweekly 24",
+          "matchCount": 21,
+          "dateRange": [
+            "2021-04-16",
+            "2021-04-16"
+          ]
+        },
+        {
+          "season": 25,
+          "name": "The Magikarp Masters Cup Biweekly 25",
+          "matchCount": 27,
+          "dateRange": [
+            "2021-04-30",
+            "2021-04-30"
+          ]
+        },
+        {
+          "season": 26,
+          "name": "The Magikarp Masters Cup Biweekly 26",
+          "matchCount": 26,
+          "dateRange": [
+            "2021-05-14",
+            "2021-05-14"
+          ]
+        },
+        {
+          "season": 27,
+          "name": "The Magikarp Masters Cup Biweekly 27",
+          "matchCount": 21,
+          "dateRange": [
+            "2021-05-28",
+            "2021-05-28"
+          ]
+        },
+        {
+          "season": 28,
+          "name": "The Magikarp Masters Cup Biweekly 28",
+          "matchCount": 17,
+          "dateRange": [
+            "2021-06-11",
+            "2021-06-11"
+          ]
+        },
+        {
+          "season": 29,
+          "name": "The Magikarp Masters Cup Biweekly 29",
+          "matchCount": 18,
+          "dateRange": [
+            "2021-06-25",
+            "2021-06-25"
+          ]
+        },
+        {
+          "season": 30,
+          "name": "The Magikarp Masters Cup Biweekly 30",
+          "matchCount": 17,
+          "dateRange": [
+            "2021-07-09",
+            "2021-07-09"
+          ]
+        },
+        {
+          "season": 31,
+          "name": "The Magikarp Masters Cup Biweekly 31",
+          "matchCount": 17,
+          "dateRange": [
+            "2021-07-23",
+            "2021-07-23"
+          ]
+        },
+        {
+          "season": 32,
+          "name": "The Magikarp Masters Cup Biweekly 32",
+          "matchCount": 12,
+          "dateRange": [
+            "2021-08-06",
+            "2021-08-06"
+          ]
+        },
+        {
+          "season": 33,
+          "name": "The Magikarp Masters Cup Biweekly 33",
+          "matchCount": 10,
+          "dateRange": [
+            "2021-08-20",
+            "2021-08-20"
+          ]
+        },
+        {
+          "season": 34,
+          "name": "The Magikarp Masters Cup Biweekly 34",
+          "matchCount": 12,
+          "dateRange": [
+            "2021-09-03",
+            "2021-09-03"
+          ]
+        },
+        {
+          "season": 35,
+          "name": "The Magikarp Masters Cup Biweekly 35",
+          "matchCount": 12,
+          "dateRange": [
+            "2021-09-17",
+            "2021-09-17"
+          ]
+        },
+        {
+          "season": 36,
+          "name": "The Magikarp Masters Cup Biweekly 36",
+          "matchCount": 15,
+          "dateRange": [
+            "2021-10-01",
+            "2021-10-02"
+          ]
+        },
+        {
+          "season": 37,
+          "name": "The Magikarp Masters Cup Biweekly 37",
+          "matchCount": 16,
+          "dateRange": [
+            "2021-10-15",
+            "2021-10-15"
+          ]
+        },
+        {
+          "season": 38,
+          "name": "The Magikarp Masters Cup Biweekly 38",
+          "matchCount": 12,
+          "dateRange": [
+            "2021-10-29",
+            "2021-10-29"
+          ]
+        },
+        {
+          "season": 39,
+          "name": "The Magikarp Masters Cup Biweekly 39",
+          "matchCount": 19,
+          "dateRange": [
+            "2021-11-12",
+            "2021-11-12"
+          ]
+        },
+        {
+          "season": 40,
+          "name": "The Magikarp Masters Cup Biweekly 40",
+          "matchCount": 13,
+          "dateRange": [
+            "2021-11-26",
+            "2021-11-26"
+          ]
+        },
+        {
+          "season": 41,
+          "name": "The Magikarp Masters Cup Biweekly 41",
+          "matchCount": 17,
+          "dateRange": [
+            "2021-12-10",
+            "2021-12-10"
+          ]
+        },
+        {
+          "season": 42,
+          "name": "The Magikarp Masters Cup Biweekly 42",
+          "matchCount": 12,
+          "dateRange": [
+            "2022-02-04",
+            "2022-02-04"
+          ]
+        },
+        {
+          "season": 43,
+          "name": "The Magikarp Masters Cup Biweekly 43",
+          "matchCount": 14,
+          "dateRange": [
+            "2022-02-18",
+            "2022-02-18"
+          ]
+        },
+        {
+          "season": 44,
+          "name": "The Magikarp Masters Cup Biweekly 44",
+          "matchCount": 12,
+          "dateRange": [
+            "2022-03-04",
+            "2022-03-04"
+          ]
+        },
+        {
+          "season": 45,
+          "name": "The Magikarp Masters Cup Biweekly 45",
+          "matchCount": 13,
+          "dateRange": [
+            "2022-03-18",
+            "2022-03-18"
+          ]
+        },
+        {
+          "season": 46,
+          "name": "The Magikarp Masters Cup Biweekly 46",
+          "matchCount": 14,
+          "dateRange": [
+            "2022-04-01",
+            "2022-04-01"
+          ]
+        },
+        {
+          "season": 47,
+          "name": "The Magikarp Masters Cup Biweekly 47",
+          "matchCount": 24,
+          "dateRange": [
+            "2022-04-15",
+            "2022-04-30"
+          ]
+        },
+        {
+          "season": 48,
+          "name": "The Magikarp Masters Cup Biweekly 48",
+          "matchCount": 19,
+          "dateRange": [
+            "2022-04-29",
+            "2022-04-29"
+          ]
+        },
+        {
+          "season": 49,
+          "name": "The Magikarp Masters Cup Biweekly 49",
+          "matchCount": 14,
+          "dateRange": [
+            "2022-05-13",
+            "2022-05-13"
+          ]
+        },
+        {
+          "season": 50,
+          "name": "The Magikarp Masters Cup Biweekly 50",
+          "matchCount": 19,
+          "dateRange": [
+            "2022-05-27",
+            "2022-05-27"
+          ]
+        },
+        {
+          "season": 51,
+          "name": "The Magikarp Masters Cup Biweekly 51",
+          "matchCount": 16,
+          "dateRange": [
+            "2022-06-10",
+            "2022-06-10"
+          ]
+        },
+        {
+          "season": 52,
+          "name": "The Magikarp Masters Cup Biweekly 52",
+          "matchCount": 12,
+          "dateRange": [
+            "2022-06-24",
+            "2022-06-24"
+          ]
+        },
+        {
+          "season": 53,
+          "name": "The Magikarp Masters Cup Biweekly 53",
+          "matchCount": 14,
+          "dateRange": [
+            "2022-07-08",
+            "2022-07-18"
+          ]
+        },
+        {
+          "season": 54,
+          "name": "The Magikarp Masters Cup Biweekly 54",
+          "matchCount": 23,
+          "dateRange": [
+            "2022-07-22",
+            "2022-07-22"
+          ]
+        },
+        {
+          "season": 55,
+          "name": "The Magikarp Masters Cup Biweekly 55",
+          "matchCount": 20,
+          "dateRange": [
+            "2022-08-05",
+            "2022-08-05"
+          ]
+        },
+        {
+          "season": 56,
+          "name": "The Magikarp Masters Cup Biweekly 56",
+          "matchCount": 20,
+          "dateRange": [
+            "2022-08-21",
+            "2022-08-21"
+          ]
+        },
+        {
+          "season": 57,
+          "name": "The Magikarp Masters Cup Biweekly 57",
+          "matchCount": 15,
+          "dateRange": [
+            "2022-09-02",
+            "2022-09-02"
+          ]
+        },
+        {
+          "season": 58,
+          "name": "The Magikarp Masters Cup Biweekly 58",
+          "matchCount": 19,
+          "dateRange": [
+            "2022-09-16",
+            "2022-09-16"
+          ]
+        },
+        {
+          "season": 59,
+          "name": "The Magikarp Masters Cup Biweekly 59",
+          "matchCount": 15,
+          "dateRange": [
+            "2022-09-30",
+            "2022-09-30"
+          ]
+        },
+        {
+          "season": 60,
+          "name": "The Magikarp Masters Cup Biweekly 60",
+          "matchCount": 11,
+          "dateRange": [
+            "2022-10-14",
+            "2022-10-14"
+          ]
+        },
+        {
+          "season": 61,
+          "name": "The Magikarp Masters Cup Biweekly 61",
+          "matchCount": 17,
+          "dateRange": [
+            "2022-10-28",
+            "2022-10-28"
+          ]
+        },
+        {
+          "season": 62,
+          "name": "The Magikarp Masters Cup Biweekly 62",
+          "matchCount": 13,
+          "dateRange": [
+            "2022-11-11",
+            "2022-11-11"
+          ]
+        },
+        {
+          "season": 63,
+          "name": "The Magikarp Masters Cup Biweekly 63",
+          "matchCount": 11,
+          "dateRange": [
+            "2022-11-25",
+            "2022-11-26"
+          ]
+        },
+        {
+          "season": 64,
+          "name": "The Magikarp Masters Cup Biweekly 64",
+          "matchCount": 16,
+          "dateRange": [
+            "2022-12-09",
+            "2022-12-09"
+          ]
+        },
+        {
+          "season": 65,
+          "name": "The Magikarp Masters Cup Biweekly 65",
+          "matchCount": 13,
+          "dateRange": [
+            "2023-01-20",
+            "2023-01-20"
+          ]
+        },
+        {
+          "season": 66,
+          "name": "The Magikarp Masters Cup Biweekly 66",
+          "matchCount": 13,
+          "dateRange": [
+            "2023-02-03",
+            "2023-02-03"
+          ]
+        },
+        {
+          "season": 67,
+          "name": "The Magikarp Masters Cup Biweekly 67",
+          "matchCount": 19,
+          "dateRange": [
+            "2023-02-17",
+            "2023-02-17"
+          ]
+        },
+        {
+          "season": 68,
+          "name": "The Magikarp Masters Cup Biweekly 68",
+          "matchCount": 16,
+          "dateRange": [
+            "2023-03-03",
+            "2023-03-03"
+          ]
+        },
+        {
+          "season": 69,
+          "name": "The Magikarp Masters Cup Biweekly 69",
+          "matchCount": 17,
+          "dateRange": [
+            "2023-03-17",
+            "2023-03-17"
+          ]
+        },
+        {
+          "season": 70,
+          "name": "The Magikarp Masters Cup Biweekly 70",
+          "matchCount": 14,
+          "dateRange": [
+            "2023-03-31",
+            "2023-03-31"
+          ]
+        },
+        {
+          "season": 71,
+          "name": "The Magikarp Masters Cup Biweekly 71",
+          "matchCount": 15,
+          "dateRange": [
+            "2023-04-14",
+            "2023-04-14"
+          ]
+        },
+        {
+          "season": 72,
+          "name": "The Magikarp Masters Cup Biweekly 72",
+          "matchCount": 15,
+          "dateRange": [
+            "2023-04-28",
+            "2023-04-28"
+          ]
+        },
+        {
+          "season": 73,
+          "name": "The Magikarp Masters Cup Biweekly 73",
+          "matchCount": 11,
+          "dateRange": [
+            "2023-05-12",
+            "2023-05-12"
+          ]
+        },
+        {
+          "season": 74,
+          "name": "The Magikarp Masters Cup Biweekly 74",
+          "matchCount": 14,
+          "dateRange": [
+            "2023-05-26",
+            "2023-05-27"
+          ]
+        },
+        {
+          "season": 75,
+          "name": "The Magikarp Masters Cup Biweekly 75",
+          "matchCount": 20,
+          "dateRange": [
+            "2023-06-09",
+            "2023-06-09"
+          ]
+        },
+        {
+          "season": 76,
+          "name": "The Magikarp Masters Cup Biweekly 76",
+          "matchCount": 13,
+          "dateRange": [
+            "2023-06-23",
+            "2023-06-23"
+          ]
+        },
+        {
+          "season": 77,
+          "name": "The Magikarp Masters Cup Biweekly 77",
+          "matchCount": 22,
+          "dateRange": [
+            "2023-07-07",
+            "2023-07-07"
+          ]
+        },
+        {
+          "season": 78,
+          "name": "The Magikarp Masters Cup Biweekly 78",
+          "matchCount": 12,
+          "dateRange": [
+            "2023-07-21",
+            "2023-07-21"
+          ]
+        },
+        {
+          "season": 79,
+          "name": "The Magikarp Masters Cup Biweekly 79",
+          "matchCount": 22,
+          "dateRange": [
+            "2023-08-04",
+            "2023-08-06"
+          ]
+        },
+        {
+          "season": 80,
+          "name": "The Magikarp Masters Cup Biweekly 80",
+          "matchCount": 16,
+          "dateRange": [
+            "2023-08-18",
+            "2023-08-18"
+          ]
+        },
+        {
+          "season": 81,
+          "name": "The Magikarp Masters Cup Biweekly 81",
+          "matchCount": 13,
+          "dateRange": [
+            "2023-09-01",
+            "2023-09-01"
+          ]
+        },
+        {
+          "season": 82,
+          "name": "The Magikarp Masters Cup Biweekly 82",
+          "matchCount": 12,
+          "dateRange": [
+            "2023-09-15",
+            "2023-09-16"
+          ]
+        },
+        {
+          "season": 83,
+          "name": "The Magikarp Masters Cup Biweekly 83",
+          "matchCount": 12,
+          "dateRange": [
+            "2023-09-29",
+            "2023-09-29"
+          ]
+        },
+        {
+          "season": 84,
+          "name": "The Magikarp Masters Cup Biweekly 84",
+          "matchCount": 13,
+          "dateRange": [
+            "2023-10-13",
+            "2023-10-13"
+          ]
+        },
+        {
+          "season": 85,
+          "name": "The Magikarp Masters Cup Biweekly 85",
+          "matchCount": 11,
+          "dateRange": [
+            "2023-10-27",
+            "2023-10-27"
+          ]
+        },
+        {
+          "season": 86,
+          "name": "The Magikarp Masters Cup Biweekly 86",
+          "matchCount": 13,
+          "dateRange": [
+            "2023-11-10",
+            "2023-11-10"
+          ]
+        },
+        {
+          "season": 87,
+          "name": "The Magikarp Masters Cup Biweekly 87",
+          "matchCount": 14,
+          "dateRange": [
+            "2023-11-24",
+            "2023-11-26"
+          ]
+        },
+        {
+          "season": 88,
+          "name": "The Magikarp Masters Cup Biweekly 88",
+          "matchCount": 21,
+          "dateRange": [
+            "2023-12-08",
+            "2023-12-08"
+          ]
+        },
+        {
+          "season": 89,
+          "name": "The Magikarp Masters Cup Biweekly 89",
+          "matchCount": 14,
+          "dateRange": [
+            "2024-01-12",
+            "2024-01-12"
+          ]
+        },
+        {
+          "season": 90,
+          "name": "The Magikarp Masters Cup Biweekly 90",
+          "matchCount": 12,
+          "dateRange": [
+            "2024-01-26",
+            "2024-01-26"
+          ]
+        },
+        {
+          "season": 91,
+          "name": "The Magikarp Masters Cup Biweekly 91",
+          "matchCount": 11,
+          "dateRange": [
+            "2024-02-16",
+            "2024-02-16"
+          ]
+        },
+        {
+          "season": 92,
+          "name": "The Magikarp Masters Cup Biweekly 92",
+          "matchCount": 13,
+          "dateRange": [
+            "2024-03-01",
+            "2024-03-01"
+          ]
+        },
+        {
+          "season": 93,
+          "name": "The Magikarp Masters Cup Biweekly 93",
+          "matchCount": 16,
+          "dateRange": [
+            "2024-03-15",
+            "2024-03-15"
+          ]
+        },
+        {
+          "season": 94,
+          "name": "The Magikarp Masters Cup Biweekly 94",
+          "matchCount": 12,
+          "dateRange": [
+            "2024-03-29",
+            "2024-03-31"
+          ]
+        },
+        {
+          "season": 95,
+          "name": "The Magikarp Masters Cup Biweekly 95",
+          "matchCount": 13,
+          "dateRange": [
+            "2024-04-12",
+            "2024-04-13"
+          ]
+        },
+        {
+          "season": 96,
+          "name": "The Magikarp Masters Cup Biweekly 96",
+          "matchCount": 16,
+          "dateRange": [
+            "2024-04-26",
+            "2024-04-27"
+          ]
+        },
+        {
+          "season": 97,
+          "name": "The Magikarp Masters Cup Biweekly 97",
+          "matchCount": 16,
+          "dateRange": [
+            "2024-05-10",
+            "2024-05-10"
+          ]
+        },
+        {
+          "season": 98,
+          "name": "The Magikarp Masters Cup Biweekly 98",
+          "matchCount": 12,
+          "dateRange": [
+            "2024-05-24",
+            "2024-05-24"
+          ]
+        },
+        {
+          "season": 99,
+          "name": "The Magikarp Masters Cup Biweekly 99",
+          "matchCount": 16,
+          "dateRange": [
+            "2024-06-07",
+            "2024-06-07"
+          ]
+        },
+        {
+          "season": 100,
+          "name": "The Magikarp Masters Cup Biweekly 100",
+          "matchCount": 26,
+          "dateRange": [
+            "2024-06-22",
+            "2024-06-22"
+          ]
+        },
+        {
+          "season": 101,
+          "name": "The Magikarp Masters Cup Biweekly 101",
+          "matchCount": 14,
+          "dateRange": [
+            "2024-07-05",
+            "2024-07-05"
+          ]
+        },
+        {
+          "season": 102,
+          "name": "The Magikarp Masters Cup Biweekly 102",
+          "matchCount": 17,
+          "dateRange": [
+            "2024-07-19",
+            "2024-07-19"
+          ]
+        },
+        {
+          "season": 103,
+          "name": "The Magikarp Masters Cup Biweekly 103",
+          "matchCount": 16,
+          "dateRange": [
+            "2024-08-02",
+            "2024-08-02"
+          ]
+        },
+        {
+          "season": 104,
+          "name": "The Magikarp Masters Cup Biweekly 104",
+          "matchCount": 10,
+          "dateRange": [
+            "2024-08-16",
+            "2024-08-16"
+          ]
+        },
+        {
+          "season": 105,
+          "name": "The Magikarp Masters Cup Biweekly 105",
+          "matchCount": 14,
+          "dateRange": [
+            "2024-08-30",
+            "2024-08-30"
+          ]
+        },
+        {
+          "season": 106,
+          "name": "The Magikarp Masters Cup Biweekly 106",
+          "matchCount": 12,
+          "dateRange": [
+            "2024-09-13",
+            "2024-09-13"
+          ]
+        },
+        {
+          "season": 107,
+          "name": "The Magikarp Masters Cup Biweekly 107",
+          "matchCount": 16,
+          "dateRange": [
+            "2024-09-27",
+            "2024-09-27"
+          ]
+        },
+        {
+          "season": 108,
+          "name": "The Magikarp Masters Cup Biweekly 108",
+          "matchCount": 14,
+          "dateRange": [
+            "2024-10-12",
+            "2024-10-12"
+          ]
+        },
+        {
+          "season": 109,
+          "name": "The Magikarp Masters Cup Biweekly 109",
+          "matchCount": 14,
+          "dateRange": [
+            "2024-10-25",
+            "2024-10-25"
+          ]
+        },
+        {
+          "season": 110,
+          "name": "The Magikarp Masters Cup Biweekly 110",
+          "matchCount": 18,
+          "dateRange": [
+            "2024-11-08",
+            "2024-11-08"
+          ]
+        },
+        {
+          "season": 111,
+          "name": "The Magikarp Masters Cup Biweekly 111",
+          "matchCount": 14,
+          "dateRange": [
+            "2024-11-22",
+            "2024-11-23"
+          ]
+        },
+        {
+          "season": 112,
+          "name": "The Magikarp Masters Cup Biweekly 112",
+          "matchCount": 16,
+          "dateRange": [
+            "2024-12-07",
+            "2024-12-07"
+          ]
+        },
+        {
+          "season": 113,
+          "name": "The Magikarp Masters Cup Biweekly 113",
+          "matchCount": 20,
+          "dateRange": [
+            "2024-12-20",
+            "2024-12-20"
+          ]
+        },
+        {
+          "season": 114,
+          "name": "The Magikarp Masters Cup Biweekly 114",
+          "matchCount": 14,
+          "dateRange": [
+            "2025-01-17",
+            "2025-01-17"
+          ]
+        },
+        {
+          "season": 115,
+          "name": "The Magikarp Masters Cup Biweekly 115",
+          "matchCount": 18,
+          "dateRange": [
+            "2025-01-31",
+            "2025-01-31"
+          ]
+        },
+        {
+          "season": 116,
+          "name": "The Magikarp Masters Cup Biweekly 116",
+          "matchCount": 14,
+          "dateRange": [
+            "2025-02-14",
+            "2025-02-14"
+          ]
+        },
+        {
+          "season": 117,
+          "name": "The Magikarp Masters Cup Biweekly 117",
+          "matchCount": 11,
+          "dateRange": [
+            "2025-03-01",
+            "2025-03-01"
+          ]
+        },
+        {
+          "season": 118,
+          "name": "The Magikarp Masters Cup Biweekly 118",
+          "matchCount": 15,
+          "dateRange": [
+            "2025-03-14",
+            "2025-03-14"
+          ]
+        },
+        {
+          "season": 119,
+          "name": "The Magikarp Masters Cup Biweekly 119",
+          "matchCount": 14,
+          "dateRange": [
+            "2026-05-30",
+            "2026-05-31"
+          ]
+        }
+      ]
     }
   ]
 }
