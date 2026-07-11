@@ -1329,6 +1329,15 @@
             "2026-05-30",
             "2026-05-31"
           ]
+        },
+        {
+          "season": 120,
+          "name": "The Magikarp Masters Cup Biweekly 120",
+          "matchCount": 20,
+          "dateRange": [
+            "2026-06-28",
+            "2026-06-28"
+          ]
         }
       ]
     }
